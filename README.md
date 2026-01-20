@@ -3,8 +3,10 @@ This project provides a hands‑on environment for exploring both offensive and 
 The goal is to give you practical experience identifying and exploiting common web vulnerabilities, while also learning how to detect, investigate, and interpret the resulting threat signals from a defender’s perspective.
 This work aligns strongly with roles such as Security Analyst, Penetration Tester, and Cloud Security Engineer, where understanding attacker behaviour, cloud threat detection, and incident analysis is essential. It also reflects a broader interest in cloud security, automation, and structured technical documentation.
 
-https://github.com/D-rank-developer/Threat-Detection-with-GuardDuty/blob/3bb9fc455b6eb2ec7d399ab45a8053d74c175f56/AWS%20files/image26.png
-https://github.com/D-rank-developer/Threat-Detection-with-GuardDuty/blob/3bb9fc455b6eb2ec7d399ab45a8053d74c175f56/AWS%20files/image19.png
+![image1](https://github.com/D-rank-developer/Threat-Detection-with-GuardDuty/blob/b5933cb9eeff521f120d9645c7a597249b4f3167/AWS%20files/image18.png)
+
+![image1](https://github.com/D-rank-developer/Threat-Detection-with-GuardDuty/blob/b5933cb9eeff521f120d9645c7a597249b4f3167/AWS%20files/image19.png)
+
 
 ## Tools used
 Amazon GuardDuty
